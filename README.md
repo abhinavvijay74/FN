@@ -1,2 +1,5 @@
-# easfarmer
-# simple project that removes the middleman which is involved between farmer and buyer.
+# FarmNest
+# Farmnest Platform is to connect farmers with the
+buyers, Buyers registers on this platform and chooses
+the area from where he wants to buy the product.
+
